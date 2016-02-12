@@ -170,10 +170,15 @@ body {
         > div {
             > pre {
                 padding-left: 2rem;
+
             }
         }
     }
     span {
         vertical-align: middle;
     }
+    span.cm-comment {
+        color:limegreen;
+    }
+
 }
